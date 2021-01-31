@@ -1,0 +1,176 @@
+2021/01/01 Home Needs
+    Assets:Advance:Binod                       135.00
+    Assets:Cash
+    ;; last years carried forward in cash - adjustment entry
+
+2021/01/02 Home Needs
+    Expenses:Groceries                        240.00
+    Expenses:Non-Veg                          190.00
+    Expenses:Veg                               40.00
+    Assets:Advance:Binod
+
+2021/01/04 Home Needs
+    Assets:Advance:Binod                      1000.00
+    Assets:Bank:Sbi:Dad
+    ;; paid for jan home expenses
+
+2021/01/04 Home Needs
+    Expenses:Veg                               40.00
+    Assets:Advance:Binod
+
+2021/01/06 Home Needs
+    Assets:Advance:Binod                       500.00
+    ;; paid by bindu to binod
+    Liabilities:Loan:Bindu
+
+2021/01/08 Home Needs
+    Expenses:Medicines:Ayurveda               290.00
+    ;; purchase of oil for dad
+    Assets:Advance:Binod
+
+2021/01/09 Home Needs
+    Expenses:Non-Veg                          145.00
+    Expenses:Veg                               50.00
+    Assets:Advance:Binod
+
+2021/01/10 Home Needs
+    Expenses:Newspaper:Chthy                  320.00
+    Assets:Advance:Binod
+    ;; to check with binod for paymnt stattus
+
+2021/01/10 Binod
+    Expenses:Wages:Binod    4000.00
+    Assets:Cash
+    ;; 10 days from Jan 1 - 10 @ 400
+
+2021/01/10 Binod
+    Expenses:Wages:Binod    500.00
+    Assets:Cash
+    ;; 10 days from Jan 1 - 10 @ 50/day for bathing
+
+2021/01/11 Home Needs
+    Expenses:Wages:Binod                      500.00
+    Assets:Cash
+    ;; coconurt plucking reimburse
+
+2021/01/12 Binod
+    Assets:Advance:Binod                     1000.00
+    Assets:Cash
+
+2021/01/15 Home Needs
+    Expenses:Groceries                        257.00
+    Expenses:Medicines:Allopathy              165.00
+    Expenses:Medicines:Ayurveda                50.00
+    Assets:Advance:Binod
+
+
+
+2021/01/16 Home Needs
+    Expenses:Groceries                        150.00
+    ;; Oil
+    Expenses:Veg                              286.00
+    Expenses:Non-Veg                          310.00
+    ;; Fish aOLI
+    Assets:Advance:Binod
+
+
+2021/01/20 Home Needs
+    Expenses:Groceries                         45.00
+    Assets:Advance:Binod
+    ;; bisucuit and tomato
+
+
+
+2021/01/23 Binod
+    Expenses:Wages:Binod                     4000.00
+    ;; 10 days from 11 Jan - 20 Jan
+    Expenses:Wages:Binod                      500.00
+    ;; 10 days bathing of dad 11 jan - 20 jan
+    Assets:Cash                              
+
+2021/01/23 Bindu
+    Expenses:Wages:Bindu                      100.00
+    Assets:Cash
+    ;; paid her allowance to be adjusted in jann salary
+
+2021/01/24 Home Needs
+    Expenses:CoconutPlucking                  200.00
+    Assets:Advance:Sethumadhavan              500.00
+    Assets:Cash
+    ;; advance for ariwal and plucking exp
+
+
+2021/01/25 Home Needs
+    Expenses:Groceries                        457.00
+    ;; adjustement and final settlement
+    Assets:Advance:Binod
+
+2021/01/25 Home Needs
+    Assets:Advance:Binod                     1500.00
+    Assets:Cash
+    ;; top up and excess expenses settlement
+
+2021/01/27 Home Needs
+    Expenses:Groceries                         84.00
+    Expenses:Bakery                           115.00
+    Assets:Advance:Binod
+
+2021/01/28 Home Needs
+    Expenses:Medicines:Ayurveda               314.00
+    Expenses:Medicines:Allopathy              146.00
+    Assets:Advance:Binod
+
+2021/01/28 Home Needs
+    Expenses:Non-Veg                          160.00
+    Assets:Advance:Binod
+
+2021/01/31 Bindu
+    Expenses:Wages:Bindu                    12000.00
+    Assets:Cash
+    ;; bank transfer
+
+2021/01/31 Binod
+    Expenses:Wages:Binod                     4500.00
+    ;; 10 days upto 30th and bathing dad 10 days upto 30th
+    Expenses:Wages:Sharada                   2000.00
+    ;; wages for jan
+    Expenses:Milkman                         1050.00
+    ;; 31 days @ 34 per day
+    Assets:Advance:Binod                     1000.00
+    ;; home exp top up
+    Assets:Bank:Sbi:Dad                     -8550.00
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
